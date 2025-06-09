@@ -4,8 +4,8 @@ A responsive front-end clone of Netflix's homepage built using **HTML** and **CS
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project](https://your-live-demo-link.com)  
-*(Replace with your GitHub Pages link)*
+👉 [Click here to view the live project](https://hassaanmemon026.github.io/NETFLIX-Clone/)  
+
 
 ---
 
@@ -48,7 +48,7 @@ Netflix-UI-Clone/
 - ✅ Language and Sign-in UI (static)
 - ✅ Animated video sections just like original Netflix
 - ✅ FAQ section with collapsible boxes (static)
-- ✅ Footer with multiple useful links
+- ✅ Footer with multiple dummy links
 - ✅ Clean and readable code structure
 
 ---
