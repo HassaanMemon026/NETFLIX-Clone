@@ -38,7 +38,7 @@ Netflix-UI-Clone/
 ├── index.html
 ├── style.css
 └── README.md
-
+~~~
 
 ---
 
