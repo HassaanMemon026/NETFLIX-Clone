@@ -30,6 +30,7 @@ A responsive front-end clone of Netflix's homepage built using **HTML** and **CS
 
 ## 📂 Folder Structure
 
+~~~
 Netflix-UI-Clone/
 ├── assets/
 │ ├── Images/
